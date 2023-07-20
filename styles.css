@@ -11,3 +11,8 @@ body {
 .funParagraph {
     color: green;
 }
+
+#bio-image {
+    max-width: 25%;
+    height: auto;
+}
